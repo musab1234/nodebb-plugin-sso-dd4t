@@ -1,6 +1,6 @@
 {
     "name": "nodebb-plugin-sso-dd4t",
-    "version": "0.5.0",
+    "version": "0.5.1",
     "description": "NodeBB OAuth SSO For DaDesktop",
     "main": "library.js",
     "repository": {
